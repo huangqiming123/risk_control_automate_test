@@ -1,0 +1,11 @@
+,,,,,请输入用户名称
+123,,,,,登录账号不能小于3位
+123,123,,,,登录密码不能小于3位
+123,123,123,,,请输入正确的手机号
+123,123,123,13566668888,,请先选择角色
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,123,123,13566668888,1,用户名称不能大于50个字
+hhhhhh,testAddUsetestAddUsetestAddUsetestAddUsetestAddUsetestAddUse,jimi123,13566668888,1,登录账号不能大于32个字
+hhhhhh,testAddUse,testAddUsetestAddUsetestAddUsetestAddUsetestAddUsetestAddUsetestAddUsetestAddUse,13566668888,1,登录密码不能大于32个字
+hhhhhh,testAddUser1,jimi123,135666688887777,1,请输入正确的手机号
+hhhhhh,hhhhhhhhhhh_000,jimi123,135666688887777,1,登录账号只能使用数字和字母
+hhhhhh,hhhhhhhhhhh,hhhhhhhhhhh_000@#$$,135666688887777,1,登录密码只能使用数字和字母
